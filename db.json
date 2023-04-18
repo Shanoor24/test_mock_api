@@ -11,5 +11,8 @@
         "cost": 1299,
         "borrowed": false
       }
+    ],
+    "todo": [
+        {"id": 1, "name": "Buy milk", "status": false}
     ]
   }
